@@ -56,4 +56,4 @@ curl -X POST "http://localhost:8080?cmd=<command>&option=<option>
 
 ## Contributing
 
-PRs are always welcome, a lot of this code is a cut and past job, with some minor tweaks here and there.  I am sure there are better ways to do some of this things here and suggestions are always welcome.  Feel free to submit an issue it you have a problem or a feature request, no guarantees how quickly I will get back to you or that I every will.
+PRs are always welcome, a lot of this code is a cut and paste job, with some minor tweaks here and there.  I am sure there are better ways to do some of this things here and suggestions are always welcome.  Feel free to submit an issue it you have a problem or a feature request, no guarantees how quickly I will get back to you or that I every will.
